@@ -1,0 +1,11 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.BigContainer {
+    width: calc(100% - 322px);;
+    height: 42px;
+    background-color: #F6F6F6;
+    float: left;
+}

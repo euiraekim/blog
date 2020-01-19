@@ -1,0 +1,10 @@
+.TopBar {
+    height: 42px;
+}
+
+.TopBar .SearchIcon{
+    width: 24px;
+    float: right;
+    margin-top: 8px;
+    margin-right: 10px;
+}

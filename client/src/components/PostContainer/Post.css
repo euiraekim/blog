@@ -1,0 +1,39 @@
+.Post {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    margin-bottom: 30px;
+    background-color: #FFFFFF;
+}
+
+.Post .Thumbnail {
+    width: 100%;
+}
+
+.Post hr {
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: #E3E3E3;
+    height: 1px;
+    border: 0px;
+}
+
+.Post .Date {
+    color: #C7C7C7;
+    font-size: 0.9em;
+    font-weight: 500;
+}
+
+.Post .Title {
+    color: #B1A9A3;
+    font-size: 1.4em;
+}
+
+.Post .Content{
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 24px;
+    line-height: 36px;
+    color: #A3A2A0;
+    font-size: 0.9em;
+}

@@ -1,0 +1,23 @@
+.Header .CategoryContainer1 li {
+    list-style: none;
+    text-align: left;
+    margin-top: 10px;
+    font-size: 1.3em;
+    font-weight: 300;
+    margin-left: 30px;
+}
+
+.Header .CategoryContainer2 {
+    background-color: #F6F6F6;
+    margin-left: 30px;
+    padding-top: 1px;
+    padding-bottom: 12px;
+}
+
+.Header .CategoryContainer2 li {
+    list-style: none;
+    text-align: left;
+    font-size: 1.2em;
+    font-weight: 300;
+    margin-top: 12px;
+}
